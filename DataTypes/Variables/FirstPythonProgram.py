@@ -1,7 +1,7 @@
 #!/bin/usr/python
 
 #Comments Section
-#Comments can be created with #Sometext,'Sometext',''Sometext'',"""Sometext"""
+#Comments can be created with #Sometext,'Sometext','''Sometext''',"""Sometext"""
 print("Variables and Printing")
 
 #1st Comments Section
@@ -11,6 +11,7 @@ MiddleName="Van"
 LastName="Rossum"
 Title="Python Creator"
 
+#Accessing Variables
 print(FirstName)
 print(MiddleName)
 print(LastName)
@@ -23,6 +24,8 @@ firstname='Guido'
 middlename="Van"
 lastname='Rossum'
 title="Python Creator"
+
+#Accessing Variables
 print('')
 print(firstname)
 print(middlename)
@@ -55,6 +58,7 @@ Producer = "Joe Cornish"
 Story = """Edgar Wright"""
 Music="""Chris Beck"""
 
+#Accessing Variables
 print(Movie,Director,Producer,Story,Music)
 
 #5th Program
@@ -69,8 +73,5 @@ IDLE = """PyCharm"""
 print(IDLE,Text_Editor,OS,Language)
 print(id(OS),id(Language),id(Text_Editor),id(IDLE))
 print(type(OS),type(Language),type(Text_Editor),type(IDLE))
-
-
-
 
 '''End of the Program'''

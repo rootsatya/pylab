@@ -63,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2059" />
+          <entry key="py" value="2108" />
           <entry key="python_notes" value="741" />
           <entry key="txt" value="785" />
         </counts>
@@ -71,14 +71,14 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1526" />
-          <entry key="Python" value="2059" />
+          <entry key="Python" value="2108" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../python_notes.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
@@ -87,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="78" />
+            <state relative-caret-position="190">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -120,8 +120,8 @@
         <option value="$PROJECT_DIR$/DataTypes/Strings/String_Methods.py" />
         <option value="$PROJECT_DIR$/../python-notes.py" />
         <option value="$PROJECT_DIR$/../python_notes" />
-        <option value="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" />
         <option value="$PROJECT_DIR$/../python_notes.txt" />
+        <option value="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" />
       </list>
     </option>
   </component>
@@ -298,17 +298,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../python_notes.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="80" column="10" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
