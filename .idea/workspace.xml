@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7db7cc-265a-47aa-9207-58284f6650ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/Strings/String_Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Strings/String_Special_Operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,6 +137,11 @@
               <item name="pylab" type="b2602c69:ProjectViewProjectNode" />
               <item name="pylab" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pylab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pylab" type="462c0819:PsiDirectoryNode" />
+              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,7 +234,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11309524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
