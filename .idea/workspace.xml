@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d7db7cc-265a-47aa-9207-58284f6650ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
           <entry key="python_notes" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -58,20 +58,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="91" />
+          <entry key="py" value="2059" />
           <entry key="python_notes" value="741" />
-          <entry key="txt" value="519" />
+          <entry key="txt" value="785" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1260" />
-          <entry key="Python" value="91" />
+          <entry key="PLAIN_TEXT" value="1526" />
+          <entry key="Python" value="2059" />
         </counts>
       </usages-collector>
     </session>
@@ -81,8 +81,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../python_notes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-end-line="52" selection-end-column="25" />
+            <state relative-caret-position="230">
+              <caret line="80" column="10" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -107,11 +116,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" />
         <option value="$PROJECT_DIR$/DataTypes/Strings/String_Special_Operators.py" />
         <option value="$PROJECT_DIR$/DataTypes/Strings/String_Methods.py" />
         <option value="$PROJECT_DIR$/../python-notes.py" />
         <option value="$PROJECT_DIR$/../python_notes" />
+        <option value="$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py" />
         <option value="$PROJECT_DIR$/../python_notes.txt" />
       </list>
     </option>
@@ -142,6 +151,12 @@
               <item name="pylab" type="462c0819:PsiDirectoryNode" />
               <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pylab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pylab" type="462c0819:PsiDirectoryNode" />
+              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.String_Methods">
+  <component name="RunManager" selected="Python.FirstPythonProgram">
     <configuration name="FirstPythonProgram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pylab" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,8 +229,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.String_Methods" />
         <item itemvalue="Python.FirstPythonProgram" />
+        <item itemvalue="Python.String_Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -236,12 +251,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11309524" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11309524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41571194" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41571194" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,13 +274,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/Strings/String_Methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -290,10 +298,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Variables/FirstPythonProgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../python_notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-end-line="52" selection-end-column="25" />
+        <state relative-caret-position="230">
+          <caret line="80" column="10" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
         </state>
       </provider>
     </entry>
