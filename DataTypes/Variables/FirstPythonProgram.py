@@ -1,5 +1,7 @@
 #!/bin/usr/python
 
+#In this program we will learn about Shebang Value, Comments, Variables, Print  and functions
+
 #Comments Section
 #Comments can be created with #Sometext,'Sometext','''Sometext''',"""Sometext"""
 print("Variables and Printing")
